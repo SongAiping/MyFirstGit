@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Idea_Stu-dao/Idea_Stu-dao.iml" filepath="$PROJECT_DIR$/Idea_Stu-dao/Idea_Stu-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Idea_Stu-entity/Idea_Stu-entity.iml" filepath="$PROJECT_DIR$/Idea_Stu-entity/Idea_Stu-entity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Idea_Stu-service/Idea_Stu-service.iml" filepath="$PROJECT_DIR$/Idea_Stu-service/Idea_Stu-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Idea_Stu-web/Idea_Stu-web.iml" filepath="$PROJECT_DIR$/Idea_Stu-web/Idea_Stu-web.iml" />
+    </modules>
+  </component>
+</project>
